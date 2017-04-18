@@ -1,0 +1,93 @@
+"a" = (/turf/space,/area/space)
+"b" = (/turf/simulated/wall,/area/space)
+"c" = (/turf/simulated/floor/plating/with_grille/reinforced,/area/space)
+"d" = (/turf/simulated/floor{tag = "icon-purplefull (EAST)"; icon_state = "purplefull"; dir = 4},/area/space)
+"e" = (/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/space)
+"f" = (/obj/machinery/door/airlock,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/space)
+"g" = (/turf/simulated/floor{tag = "icon-wood_new_dark"; icon_state = "wood_new_dark"},/area/space)
+"h" = (/obj/structure/table/wooden_reinforced,/turf/simulated/floor{tag = "icon-wood_new_dark"; icon_state = "wood_new_dark"},/area/space)
+"i" = (/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/space)
+"j" = (/turf/simulated/floor{icon_state = "white"},/area/space)
+"k" = (/obj/structure/bed/chair/office/light,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/space)
+"l" = (/obj/machinery/door/airlock,/turf/simulated/floor{tag = "icon-wood_new_dark"; icon_state = "wood_new_dark"},/area/space)
+"m" = (/obj/structure/table/standard,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/space)
+"n" = (/obj/machinery/door/airlock,/turf/simulated/floor{icon_state = "white"},/area/space)
+"o" = (/obj/machinery/door/airlock,/turf/simulated/floor{tag = "icon-purplefull (EAST)"; icon_state = "purplefull"; dir = 4},/area/space)
+"p" = (/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"q" = (/obj/machinery/door/airlock,/turf/simulated/floor{icon_state = "freezerfloor"},/area/space)
+"r" = (/obj/machinery/door/airlock,/turf/simulated/floor{icon_state = "hydrofloor"},/area/space)
+"s" = (/obj/structure/table/glass,/obj/item/weapon/paper_bin,/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"t" = (/obj/machinery/computer/crew,/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"u" = (/turf/simulated/floor{icon_state = "freezerfloor"},/area/space)
+"v" = (/turf/simulated/floor{icon_state = "hydrofloor"},/area/space)
+"w" = (/obj/machinery/door/airlock,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/space)
+"x" = (/obj/structure/table/glass,/obj/item/weapon/pen,/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"y" = (/obj/structure/bed/chair/office/light{dir = 8},/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"z" = (/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"A" = (/obj/structure/table/glass,/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"B" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"C" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"D" = (/obj/structure/table/standard,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"E" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"F" = (/obj/machinery/door/airlock,/turf/simulated/floor{tag = "icon-whitebluefull (SOUTHEAST)"; icon_state = "whitebluefull"; dir = 6},/area/space)
+"G" = (/obj/structure/table/standard,/obj/machinery/microwave{pixel_x = -3; pixel_y = 6},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"H" = (/obj/structure/table/marble,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"I" = (/obj/structure/table/marble,/obj/item/weapon/material/kitchen/rollingpin,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"J" = (/obj/structure/table/standard,/obj/machinery/reagentgrinder,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"K" = (/obj/structure/table/marble,/obj/item/weapon/book/manual/chef_recipes,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"L" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"M" = (/obj/structure/table/marble,/obj/item/weapon/storage/box/donkpockets{pixel_x = 6; pixel_y = 6},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+"N" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabbbbcccbbbbbccbbbbbbbbbbaaaaaaaaaaaaaaa
+aaaaaaaaaaabddbdddbddbeeeeeeeefeeebaaaaaaaaaaaaaaa
+aaaaaaaaaaabddbdddbddbeeeeeeeeceeebaaaaaaaaaaaaaaa
+aaaaaaaaaaabdbbdddbbdbbbbbeeeeceeebaaaaaaaaaaaaaaa
+aaaaaaaaaaabddbcdcbddbgggbeeeeceeebaaaaaaaaaaaaaaa
+aaaaabbcccbbdddddddddbhhgbfbbfbbbbbaaaaaaaaaaaaaaa
+aaaaabiiiiibdddddddddbgggbjjfeeeeebaaaaaaaaaaaaaaa
+aaaaaciiiiibdddddddddbgggbjjbeekeebbccaaaaaaaaaaaa
+aaaaaciiiiibdddddddddbblbbjjbcmmmcbjjcaaaaaaaaaaaa
+aaaaabiiiiibdddddddddbjjjjjjjjjjjjnjjnaaaaaaaaaaaa
+aaaaabiiiiibdddddddddbjjjjjjjjjjjjnjjnaaaaaaaaaaaa
+aaaaaciiiiibbbbbobbbbbjjppbbbqbrbbbjjcaaaaaaaaaaaa
+aaaaaciiiiibjjjjjjjjjjjjppstbubvvvbbccaaaaaaaaaaaa
+aaaaabiiiiiwjjjjjjjjjjjjppxybubvvvbaaaaaaaaaaaaaaa
+aaaaabbbbbbbbbbbzzzbbbbbbpApbbbvvvcaaaaaaaaaaaaaaa
+aaaaabBzzzzzzCDEzzzbpppFppppbvvvvvcaaaaaaaaaaaaaaa
+aaaaacGzHIzDzCDEzzzbpppbppppbvvvvvbaaaaaaaaaaaaaaa
+aaaaacJzHKzDzzzzzzzbpppbppppbvvvvvcaaaaaaaaaaaaaaa
+aaaaacLzHMzDzCDEzDEbpppbppppbvvvvvcaaaaaaaaaaaaaaa
+aaaaabNzzzzDzCDEzDEbpppbppppbvvvvvbaaaaaaaaaaaaaaa
+aaaaabbcccbbbcccbbbbbbbbbccbbbcccbbaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
